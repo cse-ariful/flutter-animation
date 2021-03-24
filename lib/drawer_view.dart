@@ -63,6 +63,7 @@ class _DrawerViewState extends State<DrawerView> {
           ),
           Expanded(
             child: ListView.builder(
+                physics: const BouncingScrollPhysics(),
                 itemCount: widget.drawerItem.length,
                 itemBuilder: (context, index) {
                   return buildMenuItem(widget.drawerItem[index]);

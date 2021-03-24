@@ -1,0 +1,310 @@
+{
+    "links": {
+        "next": "https://shatkora.co/api/product/v1/product-variants/?categories=194&page=2&page_size=10",
+        "previous": null
+    },
+    "count": 65,
+    "results": [
+        {
+            "id": 6663,
+            "product": 6724,
+            "title": "New Vim Dishwash liquid",
+            "sku": "b49143ee-7922-498d-b61d-0bb88ecab238",
+            "original_price": "50.00",
+            "sale_price": "45.00",
+            "discount": 10.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 1135,
+                    "image": "https://cdn.shatkora.co/media/products/8941100658819.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8941100658819.jpg",
+                    "alt": "New Vim Dishwash liquid"
+                }
+            ],
+            "tags": [
+                "Dishe Cleaner"
+            ],
+            "review": null,
+            "measurement": "1 Unit",
+            "measurement_value": null,
+            "measurement_unit": null,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.546024+06:00",
+            "modified_date": "2021-03-18T11:17:53.478017+06:00"
+        },
+        {
+            "id": 6662,
+            "product": 6723,
+            "title": "Potato 1kg",
+            "sku": "041afe73-73b3-4ee0-9615-30838ceb7ac1",
+            "original_price": "16.00",
+            "sale_price": "16.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 1009,
+                    "image": "https://cdn.shatkora.co/media/products/13261.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/13261.jpg",
+                    "alt": "Potato 1kg"
+                }
+            ],
+            "tags": [
+                "Alo",
+                "Aloo",
+                "Alu"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.539781+06:00",
+            "modified_date": "2021-03-18T11:17:53.459081+06:00"
+        },
+        {
+            "id": 6661,
+            "product": 6722,
+            "title": "Onion 1 No",
+            "sku": "e69c0631-3e18-4bfd-9e64-79c9935396ca",
+            "original_price": "38.00",
+            "sale_price": "38.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 2438,
+                    "image": "https://cdn.shatkora.co/media/products/onion_1no.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/onion_1no.jpg",
+                    "alt": ""
+                }
+            ],
+            "tags": [
+                "Peyaj",
+                "piag",
+                "piaz",
+                "Piyaj"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.533739+06:00",
+            "modified_date": "2021-03-18T18:05:05.268043+06:00"
+        },
+        {
+            "id": 6660,
+            "product": 6721,
+            "title": "Onion 2 No",
+            "sku": "4efbb99e-cc35-4d22-a360-22581c5da2b5",
+            "original_price": "30.00",
+            "sale_price": "30.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 5.0,
+            "images": [
+                {
+                    "id": 2443,
+                    "image": "https://cdn.shatkora.co/media/products/onionnnnn2.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/onionnnnn2.jpg",
+                    "alt": ""
+                }
+            ],
+            "tags": [
+                "Peyaj",
+                "piag",
+                "piaz",
+                "Piyaj"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.527259+06:00",
+            "modified_date": "2021-03-18T18:34:08.666688+06:00"
+        },
+        {
+            "id": 6659,
+            "product": 6720,
+            "title": "Ginger 1kg",
+            "sku": "7e5e9db4-f06b-47b8-804d-2c24665ae9d5",
+            "original_price": "60.00",
+            "sale_price": "60.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 5.0,
+            "images": [
+                {
+                    "id": 1172,
+                    "image": "https://cdn.shatkora.co/media/products/14096.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/14096.jpg",
+                    "alt": "Ginger 1kg"
+                }
+            ],
+            "tags": [
+                "Ada"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.521196+06:00",
+            "modified_date": "2021-03-18T17:19:36.395221+06:00"
+        },
+        {
+            "id": 6658,
+            "product": 6719,
+            "title": "Garlic Indian 1kg",
+            "sku": "73dcc2c5-4a68-42f5-9a7b-f4fabc22c1de",
+            "original_price": "110.00",
+            "sale_price": "110.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 1876,
+                    "image": "https://cdn.shatkora.co/media/products/13259.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/13259.jpg",
+                    "alt": "Garlic LC 1kg"
+                }
+            ],
+            "tags": [
+                "Roshun",
+                "Rosun"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.514941+06:00",
+            "modified_date": "2021-03-18T12:48:46.799955+06:00"
+        },
+        {
+            "id": 6657,
+            "product": 6718,
+            "title": "Garlic Desi 1kg",
+            "sku": "477ea828-0461-4e39-97e7-167721d39a0e",
+            "original_price": "85.00",
+            "sale_price": "85.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 2331,
+                    "image": "https://cdn.shatkora.co/media/products/13258.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/13258.jpg",
+                    "alt": "Desi Garlic 1kg"
+                }
+            ],
+            "tags": [
+                "Roshun",
+                "Rosun"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.508670+06:00",
+            "modified_date": "2021-03-18T12:49:47.738709+06:00"
+        },
+        {
+            "id": 6513,
+            "product": 6574,
+            "title": "Fresh Sugar 1kg",
+            "sku": "c5ad41f4-c7d7-4ded-9392-5e64debc314c",
+            "original_price": "72.00",
+            "sale_price": "70.00",
+            "discount": 2.78,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 2112,
+                    "image": "https://cdn.shatkora.co/media/products/8941161103273.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8941161103273.jpg",
+                    "alt": "Fresh Sugar 1kg"
+                }
+            ],
+            "tags": [
+                "Chini"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:47.528754+06:00",
+            "modified_date": "2021-03-18T11:17:51.602754+06:00"
+        },
+        {
+            "id": 6508,
+            "product": 6569,
+            "title": "Loose sugar 1kg",
+            "sku": "413b8a64-aa05-4687-a15d-72a8bf706e7d",
+            "original_price": "66.00",
+            "sale_price": "66.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 1159,
+                    "image": "https://cdn.shatkora.co/media/products/13323.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/13323.jpg",
+                    "alt": "Lose sugar 1kg"
+                }
+            ],
+            "tags": [
+                "Lose",
+                "Regular"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:47.497148+06:00",
+            "modified_date": "2021-03-18T11:17:51.520136+06:00"
+        },
+        {
+            "id": 6505,
+            "product": 6566,
+            "title": "Brown Sugar 1kg",
+            "sku": "d45c33ac-793b-40f9-9d21-334c02f82f89",
+            "original_price": "68.00",
+            "sale_price": "68.00",
+            "discount": 0.0,
+            "is_featured": false,
+            "rating": 0.0,
+            "images": [
+                {
+                    "id": 2174,
+                    "image": "https://cdn.shatkora.co/media/products/14066.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/14066.jpg",
+                    "alt": "Brown Sugar 1kg"
+                }
+            ],
+            "tags": [
+                "Chini"
+            ],
+            "review": null,
+            "measurement": "1 Kg",
+            "measurement_value": 1.0,
+            "measurement_unit": 1,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:47.477976+06:00",
+            "modified_date": "2021-03-18T11:17:51.478449+06:00"
+        }
+    ]
+}

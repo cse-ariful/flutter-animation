@@ -1,0 +1,294 @@
+{
+    "links": {
+        "next": "https://shatkora.co/api/product/v1/product-variants/?page=2",
+        "previous": null
+    },
+    "count": 2618,
+    "results": [
+        {
+            "id": 6708,
+            "product": 6769,
+            "title": "Pran Yogurt 500gm",
+            "sku": "11b5ed4d-5bf5-42b9-9f65-4e90fbfe6f2c",
+            "original_price": "80.00",
+            "sale_price": "75.00",
+            "discount": 6.25,
+            "is_featured": false,
+            "rating": 0,
+            "images": [],
+            "tags": [],
+            "review": null,
+            "measurement": "500 gm",
+            "measurement_value": 500,
+            "measurement_unit": 2,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.848386+06:00",
+            "modified_date": "2021-03-14T02:53:32.041308+06:00"
+        },
+        {
+            "id": 6707,
+            "product": 6768,
+            "title": "Aarong Sweetened Yoghurt 500gm",
+            "sku": "f7b12211-7434-4e51-b1e9-21faf0fa159d",
+            "original_price": "100.00",
+            "sale_price": "95.00",
+            "discount": 5.0,
+            "is_featured": false,
+            "rating": 0,
+            "images": [],
+            "tags": [],
+            "review": null,
+            "measurement": "500 gm",
+            "measurement_value": 500,
+            "measurement_unit": 2,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.841826+06:00",
+            "modified_date": "2021-03-17T18:19:33.228769+06:00"
+        },
+        {
+            "id": 6706,
+            "product": 6767,
+            "title": "Instant Yeast 100gm",
+            "sku": "2463df92-f6a6-455c-9018-763d8be7e784",
+            "original_price": "120.00",
+            "sale_price": "110.00",
+            "discount": 8.33,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 1791,
+                    "image": "https://cdn.shatkora.co/media/products/42737652015.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/42737652015.jpg",
+                    "alt": "Instant Yeast 100gm"
+                }
+            ],
+            "tags": [],
+            "review": null,
+            "measurement": "100 gm",
+            "measurement_value": 100,
+            "measurement_unit": 2,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.835372+06:00",
+            "modified_date": "2021-03-18T11:17:54.074125+06:00"
+        },
+        {
+            "id": 6705,
+            "product": 6766,
+            "title": "Twinkle Wipes 160pcs",
+            "sku": "82ab4fae-c6c9-4636-9a22-ae82fcb723ee",
+            "original_price": "220.00",
+            "sale_price": "200.00",
+            "discount": 9.09,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 2017,
+                    "image": "https://cdn.shatkora.co/media/products/8941196201029.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8941196201029.jpg",
+                    "alt": "Twinkle Wipes 160pcs"
+                }
+            ],
+            "tags": [
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "160 Pc",
+            "measurement_value": 160,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.828769+06:00",
+            "modified_date": "2021-03-18T11:17:54.060593+06:00"
+        },
+        {
+            "id": 6704,
+            "product": 6765,
+            "title": "Twinkel Wipes Jar 120pcs",
+            "sku": "e9afa95b-d983-4873-9e39-1411497e56ad",
+            "original_price": "200.00",
+            "sale_price": "175.00",
+            "discount": 12.5,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 1201,
+                    "image": "https://cdn.shatkora.co/media/products/8941196201012.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8941196201012.jpg",
+                    "alt": "Twinkel Wipes Jar 120pcs"
+                }
+            ],
+            "tags": [
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "120 Pc",
+            "measurement_value": 120,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.822500+06:00",
+            "modified_date": "2021-03-18T11:17:54.047020+06:00"
+        },
+        {
+            "id": 6703,
+            "product": 6764,
+            "title": "Supermom baby wipes 80pcs",
+            "sku": "fae34389-8184-431d-aeee-f5733c1bc2fc",
+            "original_price": "210.00",
+            "sale_price": "155.00",
+            "discount": 26.19,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 1179,
+                    "image": "https://cdn.shatkora.co/media/products/8941100501870.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8941100501870.jpg",
+                    "alt": "Supermom baby wipes 80pcs"
+                }
+            ],
+            "tags": [
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "80 Pc",
+            "measurement_value": 80,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.815958+06:00",
+            "modified_date": "2021-03-18T11:17:54.033583+06:00"
+        },
+        {
+            "id": 6702,
+            "product": 6763,
+            "title": "Savlon Wipes 80pcs",
+            "sku": "3a483163-d3ec-476a-adeb-0a1f01656428",
+            "original_price": "200.00",
+            "sale_price": "185.00",
+            "discount": 7.5,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 1286,
+                    "image": "https://cdn.shatkora.co/media/products/8139003001706.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8139003001706.jpg",
+                    "alt": "Savlon Wipes 80pcs"
+                }
+            ],
+            "tags": [
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "80 Pc",
+            "measurement_value": 80,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.809322+06:00",
+            "modified_date": "2021-03-18T11:17:54.020749+06:00"
+        },
+        {
+            "id": 6701,
+            "product": 6762,
+            "title": "Savlon Baby Wipes Jar 100pcs",
+            "sku": "48912fcd-a0fd-4faa-8310-bf66c0f0a097",
+            "original_price": "195.00",
+            "sale_price": "180.00",
+            "discount": 7.69,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 2098,
+                    "image": "https://cdn.shatkora.co/media/products/8139003003182.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8139003003182.jpg",
+                    "alt": "Savlon Baby Wipes Jar 100pcs"
+                }
+            ],
+            "tags": [
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "100 Pc",
+            "measurement_value": 100,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.802796+06:00",
+            "modified_date": "2021-03-18T11:17:54.005975+06:00"
+        },
+        {
+            "id": 6700,
+            "product": 6761,
+            "title": "Savlon Baby Wipes 60pcs",
+            "sku": "e21c3e31-3053-4d63-b94b-50c1366a3934",
+            "original_price": "150.00",
+            "sale_price": "140.00",
+            "discount": 6.67,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 1797,
+                    "image": "https://cdn.shatkora.co/media/products/8139003002369.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/8139003002369.jpg",
+                    "alt": "Savlon Baby Wipes 60pcs"
+                }
+            ],
+            "tags": [
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "60 Pc",
+            "measurement_value": 60,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.795997+06:00",
+            "modified_date": "2021-03-18T11:17:53.992536+06:00"
+        },
+        {
+            "id": 6699,
+            "product": 6760,
+            "title": "NeoCare Wipes 120pcs",
+            "sku": "64bf3c08-af91-414e-a437-4605e7620f6d",
+            "original_price": "200.00",
+            "sale_price": "155.00",
+            "discount": 22.5,
+            "is_featured": false,
+            "rating": 0,
+            "images": [
+                {
+                    "id": 1337,
+                    "image": "https://cdn.shatkora.co/media/products/1403022301206.jpg",
+                    "thumbnail": "https://cdn.shatkora.co/media/thumbnails/products/1403022301206.jpg",
+                    "alt": "NeoCare Wipes 120pcs"
+                }
+            ],
+            "tags": [
+                "Baby",
+                "Diaper",
+                "Towel",
+                "Wet"
+            ],
+            "review": null,
+            "measurement": "120 Pc",
+            "measurement_value": 120,
+            "measurement_unit": 5,
+            "max_allocation": 100,
+            "created_date": "2021-03-04T23:54:48.789546+06:00",
+            "modified_date": "2021-03-18T11:17:53.978177+06:00"
+        }
+    ]
+}

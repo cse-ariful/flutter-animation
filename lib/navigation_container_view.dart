@@ -13,6 +13,7 @@ class NavigationContainerView extends StatefulWidget {
 class _NavigationContainerViewState extends State<NavigationContainerView> {
   Widget currentScreen;
   DrawerIndex drawerIndex;
+  IconData menuIcon = Icons.menu;
   @override
   void initState() {
     currentScreen = HomeView();
@@ -37,7 +38,7 @@ class _NavigationContainerViewState extends State<NavigationContainerView> {
             currentScreen = CartScreen();
             drawerIndex = item.drawerIndex;
           });
-        }
+        } else if (item.drawerIndex == DrawerIndex.TO_REVIEW) {}
       },
       drawerWidth: MediaQuery.of(context).size.width * 0.75,
       drawerToggleCallback: (isOpen) {},

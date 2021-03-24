@@ -4,6 +4,7 @@ class AppTheme {
   AppTheme._();
 
   static const Color notWhite = Color(0xFFEDF0F2);
+  static const Color offWhite = Color(0xFFF1F3F4);
   static const Color nearlyWhite = Color(0xFFFEFEFE);
   static const Color white = Color(0xFFFFFFFF);
   static const Color nearlyBlack = Color(0xFF213333);

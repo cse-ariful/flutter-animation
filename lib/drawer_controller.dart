@@ -11,6 +11,7 @@ class CustomDrawerController extends StatefulWidget {
   final Widget menuIconView;
   final DrawerIndex currentIndex;
   final int drawerAnimationDuration;
+  final Color menuIconColor;
   final Function(bool isOpen) drawerToggleCallback;
   final Function(DrawerItemModel item) onItemTapped;
 
@@ -21,6 +22,7 @@ class CustomDrawerController extends StatefulWidget {
       this.menuIconView,
       this.currentIndex,
       this.onItemTapped,
+      this.menuIconColor,
       this.drawerAnimationDuration: 600,
       this.drawerToggleCallback})
       : super(key: key);
@@ -52,7 +54,8 @@ class _CustomDrawerControllerState extends State<CustomDrawerController>
         body: SingleChildScrollView(
           controller: _scrollController,
           scrollDirection: Axis.horizontal,
-          physics: const PageScrollPhysics(parent: ClampingScrollPhysics()),
+          physics:
+              const PageScrollPhysics(parent: const ClampingScrollPhysics()),
           child: SizedBox(
             width: screenSize.width + widget.drawerWidth,
             height: screenSize.height,
@@ -110,8 +113,8 @@ class _CustomDrawerControllerState extends State<CustomDrawerController>
                             ),
                           Padding(
                             padding: EdgeInsets.only(
-                                top: MediaQuery.of(context).padding.top + 8,
-                                left: 8),
+                                top: MediaQuery.of(context).padding.top + 4,
+                                left: 2),
                             child: SizedBox(
                               width: AppBar().preferredSize.height - 8,
                               height: AppBar().preferredSize.height - 8,
@@ -121,11 +124,11 @@ class _CustomDrawerControllerState extends State<CustomDrawerController>
                                   borderRadius: BorderRadius.circular(
                                       AppBar().preferredSize.height),
                                   child: Center(
-                                    // if you use your own menu view UI you add form initialization
                                     child: widget.menuIconView != null
                                         ? widget.menuIconView
                                         : AnimatedIcon(
                                             icon: AnimatedIcons.arrow_menu,
+                                            color: widget.menuIconColor,
                                             progress: iconAnimationController),
                                   ),
                                   onTap: () {
